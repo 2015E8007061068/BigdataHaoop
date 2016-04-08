@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hbase-common-0.98.18-hadoop1">
+    <CLASSES>
+      <root url="jar://D:/研一课程课件/大数据系统与大规模数据分析/hbase-0.98.18-hadoop1-bin/hbase-0.98.18-hadoop1/lib/hbase-common-0.98.18-hadoop1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

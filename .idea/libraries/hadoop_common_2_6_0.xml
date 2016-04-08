@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-common-2.6.0">
+    <CLASSES>
+      <root url="jar://D:/项目/hadoop/hadoop-2.6.0/share/hadoop/common/hadoop-common-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
